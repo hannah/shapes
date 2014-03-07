@@ -1,6 +1,7 @@
 require 'rspec'
 require_relative '../lib/square.rb'
 # Square
+
 # the constructor should take one argument
 
 describe Square do
@@ -22,4 +23,5 @@ describe Square do
   it "has an area" do
     expect(square.area).to eq(4)
   end
+
 end

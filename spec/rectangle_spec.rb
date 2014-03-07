@@ -1,19 +1,31 @@
+require 'rspec'
+require_relative '../lib/rectangle.rb'
 # Rectangle
 # the constructor should take two arguments
+describe Rectangle do
 
-it "" do
-
-end
-
-# define an area instance method
-
-it "" do
-
-end
+  let(:rectangle_length) {2}
+  let(:rectangle_width) {3}
+  let(:rectangle) do
+    Rectangle.new(rectangle_length, rectangle_width)
+  end
 
 
-# define a perimeter instance method
+  it "has a length" do
+    expect(rectangle.length).to eq(2)
+  end
 
-it "" do
+  it "has a width" do
+  end
+
+  # define a perimeter instance method
+
+  it "has a perimeter" do
+  end
+
+  # define an area instance method
+
+  it "has an area" do
+  end
 
 end
