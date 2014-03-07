@@ -1,0 +1,21 @@
+# Logfile created on 2014-03-07 16:41:20 -0500 by logger.rb/41954
+I, [2014-03-07T16:41:20.034886 #52720]  INFO -- : 0:  coderay (1.1.0) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.1.0.gemspec
+I, [2014-03-07T16:41:20.035701 #52720]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-07T16:41:20.036343 #52720]  INFO -- : 0:  method_source (0.8.2) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.2.gemspec
+I, [2014-03-07T16:41:20.036778 #52720]  INFO -- : 0:  slop (3.4.7) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/slop-3.4.7.gemspec
+I, [2014-03-07T16:41:20.037172 #52720]  INFO -- : 0:  pry (0.9.12.6) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-07T16:41:20.037557 #52720]  INFO -- : 0:  rspec-core (2.14.8) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-07T16:41:20.037943 #52720]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-07T16:41:20.038323 #52720]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-07T16:41:20.038697 #52720]  INFO -- : 0:  rspec (2.14.1) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-03-07T16:41:20.039058 #52720]  INFO -- : 0:  bundler (1.5.1) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-07T16:41:53.291984 #52734]  INFO -- : 0:  coderay (1.1.0) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/coderay-1.1.0.gemspec
+I, [2014-03-07T16:41:53.292864 #52734]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-07T16:41:53.293551 #52734]  INFO -- : 0:  method_source (0.8.2) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/method_source-0.8.2.gemspec
+I, [2014-03-07T16:41:53.294163 #52734]  INFO -- : 0:  slop (3.4.7) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/slop-3.4.7.gemspec
+I, [2014-03-07T16:41:53.294863 #52734]  INFO -- : 0:  pry (0.9.12.6) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-07T16:41:53.295492 #52734]  INFO -- : 0:  rspec-core (2.14.8) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-07T16:41:53.296159 #52734]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-07T16:41:53.296824 #52734]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-07T16:41:53.297513 #52734]  INFO -- : 0:  rspec (2.14.1) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-03-07T16:41:53.298192 #52734]  INFO -- : 0:  bundler (1.5.1) from /Users/Hannah/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
