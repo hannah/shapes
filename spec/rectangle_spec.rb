@@ -28,6 +28,7 @@ describe Rectangle do
   # define an area instance method
 
   it "has an area" do
+    expect(rectangle.area).to eq(6)
   end
 
 end

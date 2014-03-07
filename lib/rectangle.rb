@@ -10,4 +10,8 @@ class Rectangle
     length + width + length + width
   end
 
+  def area
+    length * width
+  end
+
 end
