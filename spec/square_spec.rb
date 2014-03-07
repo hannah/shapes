@@ -1,10 +1,22 @@
+require 'rspec'
+require_relative '../lib/square.rb'
 # Square
 # the constructor should take one argument
-# define an area instance method
-it "" do
 
-end
-# define a perimeter instance method
-it "" do
+describe Square do
+  let(:square_length) {2}
+  let(:square) do
+    Square.new(square_length)
+  end
 
+  it "has a length" do
+    expect(square.length).to eq(2)
+  end
+
+  # define a perimeter instance method
+  it "has a perimeter" do
+  end
+  # define an area instance method
+  it "has an area" do
+  end
 end
