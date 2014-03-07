@@ -6,4 +6,8 @@ class Rectangle
   attr_reader :length
   attr_reader :width
 
+  def perimeter
+    length + width + length + width
+  end
+
 end
