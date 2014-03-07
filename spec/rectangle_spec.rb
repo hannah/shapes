@@ -16,6 +16,7 @@ describe Rectangle do
   end
 
   it "has a width" do
+    expect(rectangle.width).to eq(3)
   end
 
   # define a perimeter instance method

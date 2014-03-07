@@ -4,6 +4,6 @@ class Rectangle
     @length = length
   end
   attr_reader :length
-  attr_reader :length
+  attr_reader :width
 
 end
