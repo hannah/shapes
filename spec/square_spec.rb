@@ -15,10 +15,11 @@ describe Square do
 
   # define a perimeter instance method
   it "has a perimeter" do
-    expect(square.perimeter).to eq(2 + 2 + 2 + 2)
+    expect(square.perimeter).to eq(8)
   end
 
   # define an area instance method
   it "has an area" do
+    expect(square.area).to eq(4)
   end
 end

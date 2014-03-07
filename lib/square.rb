@@ -7,4 +7,8 @@ class Square
   def perimeter
     length + length + length + length
   end
+
+  def area
+    length * length
+  end
 end
