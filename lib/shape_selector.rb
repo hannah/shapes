@@ -9,7 +9,7 @@ puts "> Square"
 puts "> Rectangle"
 puts "> Circle"
 puts "> Right triangle"
-print ">"
+print "> "
 shape_type = gets.chomp.downcase
 
 
