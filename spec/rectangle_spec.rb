@@ -20,13 +20,11 @@ describe Rectangle do
   end
 
   # define a perimeter instance method
-
   it "has a perimeter" do
     expect(rectangle.perimeter).to eq(10)
   end
 
   # define an area instance method
-
   it "has an area" do
     expect(rectangle.area).to eq(6)
   end
