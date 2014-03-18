@@ -1,15 +1,12 @@
 require 'rspec'
 require_relative '../lib/rectangle.rb'
+
 # Rectangle
 # the constructor should take two arguments
 describe Rectangle do
-
-  let(:rectangle_length) {2}
-  let(:rectangle_width) {3}
   let(:rectangle) do
-    Rectangle.new(rectangle_length, rectangle_width)
+    Rectangle.new(2, 3)
   end
-
 
   it "has a length" do
     expect(rectangle.length).to eq(2)
@@ -28,5 +25,4 @@ describe Rectangle do
   it "has an area" do
     expect(rectangle.area).to eq(6)
   end
-
 end
