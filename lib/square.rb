@@ -5,7 +5,7 @@ class Square
   attr_reader :length
 
   def perimeter
-    length + length + length + length
+    length * 4
   end
 
   def area
