@@ -1,5 +1,5 @@
-require 'rspec'
-require_relative '../lib/square.rb'
+require 'spec_helper'
+
 # Square
 
 # the constructor should take one argument

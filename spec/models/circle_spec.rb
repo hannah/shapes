@@ -1,5 +1,4 @@
-require 'rspec'
-require_relative '../lib/circle.rb'
+require 'spec_helper'
 
 # Circle
 # the constructor should take one argument

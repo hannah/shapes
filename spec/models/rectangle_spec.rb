@@ -1,5 +1,4 @@
-require 'rspec'
-require_relative '../lib/rectangle.rb'
+require 'spec_helper'
 
 # Rectangle
 # the constructor should take two arguments
