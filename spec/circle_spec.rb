@@ -1,13 +1,12 @@
 require 'rspec'
 require_relative '../lib/circle.rb'
+
 # Circle
 # the constructor should take one argument
 describe Circle do
-  let(:radius) {2}
   let(:circle) do
-    Circle.new(radius)
+    Circle.new(2)
   end
-
 
   # define a diameter instance method
   it "has a diameter do " do
@@ -24,6 +23,4 @@ describe Circle do
   it "can measure area" do
     expect(circle.area).to eq(12.566370614359172)
   end
-
 end
-

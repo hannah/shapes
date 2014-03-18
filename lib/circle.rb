@@ -1,9 +1,9 @@
 class Circle
+  attr_reader :radius
+
   def initialize(radius)
     @radius = radius
   end
-
-  attr_reader :radius
 
   def diameter
     radius * 2
@@ -16,5 +16,4 @@ class Circle
   def area
     Math::PI * (radius ** 2)
   end
-
 end
