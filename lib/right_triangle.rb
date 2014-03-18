@@ -1,11 +1,10 @@
 class RightTriangle
+  attr_reader :height, :width
+
   def initialize(height, width)
     @height = height
     @width = width
   end
-
-  attr_reader :height
-  attr_reader :width
 
   def hypotenuse
     Math.sqrt(height ** 2 + width ** 2)
@@ -16,7 +15,6 @@ class RightTriangle
   end
 
   def area
-    (height + width).to_f/2
+    (height + width).to_f / 2
   end
-
 end
